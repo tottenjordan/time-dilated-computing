@@ -1,5 +1,5 @@
 # time-dilated-computing
-This repo holds research and projects for a theory I call *Time Dilated Computing
+This repo holds research and projects for a theory I call *Time Dilated Computing*
 
 ## Imagine a computer in deep space- in a gravitational field much less than that of earth. If such a computer could exist and be placed, what affect would time dilation have on the computing? 
 
