@@ -1,11 +1,14 @@
 # time-dilated-computing
 This repo holds research and projects for *Time Dilated Computing*
 
-## A computer in deep space- in a gravitational field much less than that of earth. If such a computer could exist and be placed, could the time dilation help achieve efficient computing? 
+## In the known Universe, does significant gravitational time dilation exist that could contribute to meaningful computational gains for people of Earth?
 
+I'm envisioning a computer in a lower gravitational field than that of Earth. We send it problems that take years to solve, but we realize the solution much sooner. For now, I'd like to put a box around just figuring out the gravitational time-dilation pieces. 
 
-Assume problem X takes 100 years to solve on machine A. On earth, A would solve X in 100 years. In this deep space region, A would still solve X in 100 years, but time in this deep space region would happen much faster with respect to earth. If, hypothetically, the time dilation caused 100 years to occur in this region in the span of one day on earth, we could realize the solution in 1 day. 
-
-So, does such a place exist in the universe? Is it close enough to transmit light effeciently (i.e., not too many light years away)? 
+1. At what gravitational filed would we realize a material gain?
+2. Does such a field exist?
+3. How far away are the closest ones?
+4. If a compatible computer were already there, could problems and solutions be transmited as light, travel the distance, and maintain a material computational gain?
+5. Explore limitations and possibilities of actually putting a computer in this space 
 
 There are obvious limitations to the practicality of this idea, but it is an interesting experiment nonetheless. 
