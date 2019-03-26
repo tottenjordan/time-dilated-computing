@@ -1,4 +1,4 @@
-# time-dilated-computing
+# time-dilated-computing 
 This repo holds research and projects for *Time Dilated Computing*
 
 ## In the known Universe, does significant gravitational time dilation exist that could contribute to meaningful computational gains for people of Earth?
