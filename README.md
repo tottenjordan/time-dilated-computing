@@ -1,7 +1,7 @@
 # time dilated computing 
 This repo holds research, projects, experiments, and learnings for *Time Dilated Computing*
 
-## In the known Universe, does significant gravitational time dilation exist that could contribute to meaningful computational gains for people of Earth?
+## In the known Universe, does significant time dilation exist that could contribute to meaningful computational gains for people of Earth?
 
 *Exploratory Questions*
 1. At what gravitational field would Earth realize a material gain?
