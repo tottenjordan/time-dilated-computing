@@ -23,4 +23,4 @@ This repo holds research, projects, experiments, and learnings for *Time Dilated
 7. Simulate motion within '142-3D'
 8. ...
 
-### *If after considering general and special relativity potential advantages exist, seek collaboration with a physicist  
+### *If after considering general and special relativity potential advantages exist, seek collaboration with a physicist*  
