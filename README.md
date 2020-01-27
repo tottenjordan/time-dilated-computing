@@ -14,13 +14,12 @@ This repo holds research, projects, experiments, and learnings for *Time Dilated
 ### *Stationary celestial bodies and their gravity wells*
 1. Create a subsample of 3D space which includes the 142 closest stars to Earth (142-3D)
 2. Simulate the gravitaional space of '142-3D' (perhaps with vector fields?)
-3. Define a sub-space of low gravity wells (lgWells) in '142-3D'
-4. Determine time-dilation between Earth and lgWells 
-5. Calculate light travel time between Earth and lgWells
+3. Define a sub-space of low gravity wells in '142-3D'
+4. Determine time-dilation between Earth and low gravity wells 
+5. Calculate light travel time between Earth and low gravity wells
 6. Calculate break-even between Earth surface time and Schwartzchild bookkeeper time 
 
 ### *If potential advantages exist in the stationary, gravitational experiment: introduce velocity of the celestial bodies, i.e., calculate time dilation considering general and special relativity*
 7. Simulate motion within '142-3D'
 8. ...
-
-### *If after considering general and special relativity, potential advantages exist, seek collaboration with a physicist*  
+  
