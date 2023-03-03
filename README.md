@@ -1,9 +1,14 @@
 # time dilated computing 
-This repo holds research, projects, experiments, and learnings for *Time Dilated Computing*
 
-## In the known Universe, does significant time dilation exist that could contribute to meaningful computational gains for people of Earth?
+> can time dilation be used as a computational resource?
 
-*Exploratory Questions*
+### gravitational time dilation
+* think of time like a river. 
+* sometimes rivers move slow, sometimes they move fast 
+* Just as friction can slow down a river, mass (gravity) can slow down time
+
+> if we place a computer in a lower gravitational field, can it execute more operations in relative time?
+
 1. At what gravitational field would Earth realize a material gain?
 2. Does such a field exist?
 3. If so, how far away?
