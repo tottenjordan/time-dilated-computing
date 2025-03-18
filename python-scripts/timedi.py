@@ -6,8 +6,8 @@ Created on Wed Oct 31 19:12:21 2018
 import re
 
 def main():
-	running = True
-
+    
+    running = True
 	while running:
         print('Enter a speed in m/s or as a fraction of the speed of light.')
 		print('m/s in the format: x m/s, fraction in the format 0.x')
@@ -63,7 +63,6 @@ def calc_time_dilation(speed, speed_format='r'):
 	ratio_to_c = (speed ** 2) / (c ** 2)
 	dilation = 1 / ((1 - ratio_to_c) ** 0.5)
 	return dilation
-
 
 if __name__ == '__main__':
 	main()
